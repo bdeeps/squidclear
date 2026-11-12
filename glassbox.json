@@ -1,0 +1,111 @@
+{
+  "slug": "squidclear",
+  "box": 212,
+  "date": "2026-11-15",
+  "title": "SquidClear",
+  "question": "How does a squid change color?",
+  "hook": "A squid’s shimmer is not paint. It is light bouncing off stacks of protein plates thinner than a soap film, and a nerve signal can squeeze water out of them to slide the colour from red to blue. Some squid go further and make their own light.",
+  "thumbText": "HOW SQUID CHANGE COLOUR",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "squid",
+    "colour change",
+    "iridescence",
+    "reflectin",
+    "structural colour",
+    "thin-film interference",
+    "bioluminescence",
+    "counter-illumination",
+    "bobtail squid",
+    "Vibrio fischeri",
+    "giant axon",
+    "jet propulsion",
+    "Indian squid",
+    "CMFRI",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A jet-powered tube",
+      "text": "A squid is a muscular mantle with fins, eight arms, two tentacles and a funnel that fires a jet. Two giant nerve fibres fan over the mantle. Its skin stacks pigment sacs over tunable mirrors, and some squid also carry light organs."
+    },
+    {
+      "title": "Mirrors it can tune",
+      "text": "Iridophores hold stacks of reflectin plates about a tenth of a micrometre thick. Reflections from about eight plates add up for one colour. Acetylcholine from a nerve makes reflectin clump and water leave, so the plates thin and the colour slides from red to blue and gets brighter, over seconds."
+    },
+    {
+      "title": "Making light",
+      "text": "The Hawaiian bobtail squid farms glowing Vibrio fischeri bacteria in a light organ and matches the moonlight to hide its shadow from below. The firefly squid makes its own blue light, and Humboldt squid flash patterns in the deep."
+    },
+    {
+      "title": "Jet and ink",
+      "text": "Squeezing the mantle shoots water from the funnel and the squid goes tail first. For an escape the giant axons, thickest where they run furthest, fire the whole mantle at once; the squid turns pale, leaves an ink decoy and jets away."
+    },
+    {
+      "title": "Squid and people",
+      "text": "India landed about 2.13 lakh tonnes of cephalopods in 2023, roughly half squid, mostly the Indian squid. Frozen squid is a top seafood export. Since 2017 LED light fishing is banned in India’s Exclusive Economic Zone."
+    },
+    {
+      "title": "How we found out",
+      "text": "Aristotle described squid ink. J. Z. Young found the giant axon in 1936, and Hodgkin and Huxley used it to explain how nerves fire. Glowing squid bacteria revealed quorum sensing, and reflectin is now inspiring new materials."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Iridophore",
+      "def": "A skin cell holding stacks of thin plates that reflect colour by interference."
+    },
+    {
+      "term": "Reflectin",
+      "def": "The protein, found only in cephalopods, that builds a squid’s reflecting plates."
+    },
+    {
+      "term": "Thin-film interference",
+      "def": "Light reflected from thin layers adding up for one colour and cancelling for others."
+    },
+    {
+      "term": "Iridescence",
+      "def": "Colour that shifts as you change the angle you look from."
+    },
+    {
+      "term": "Chromatophore",
+      "def": "An elastic pigment sac in the skin pulled open by tiny muscles."
+    },
+    {
+      "term": "Counter-illumination",
+      "def": "Glowing on the belly to match light from above, so no shadow shows from below."
+    },
+    {
+      "term": "Bioluminescence",
+      "def": "Light made by a living thing through a chemical reaction of a luciferin."
+    },
+    {
+      "term": "Giant axon",
+      "def": "A nerve fibre about half a millimetre thick that fires a squid’s escape jet."
+    },
+    {
+      "term": "Jet propulsion",
+      "def": "Moving by squirting a fast stream of water out of the funnel."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "squidclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

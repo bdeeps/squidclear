@@ -1,0 +1,830 @@
+{
+  "title": "The history of understanding squid",
+  "tagline": "2,350 years from Aristotle’s ink sacs to the nerve that explained every nerve and mirrors built from squid protein.",
+  "intro": "People have eaten and wondered about squid since ancient times. In the twentieth century the squid’s giant nerve fibre taught us how nerves fire, its glowing bacteria taught us how microbes talk, and its tunable skin mirrors are now teaching engineers how to make new materials.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "First looks",
+      "from": -400,
+      "to": 1900,
+      "color": "#c49bff",
+      "summary": "Ancient writers describe squid, their fins and their ink."
+    },
+    {
+      "id": "nerve",
+      "name": "The giant nerve",
+      "from": 1930,
+      "to": 1965,
+      "color": "#ffb547",
+      "summary": "The squid giant axon is found and used to work out how every nerve fires."
+    },
+    {
+      "id": "light",
+      "name": "Living light and partners",
+      "from": 1966,
+      "to": 2003,
+      "color": "#8ef0ff",
+      "summary": "Glowing bacteria reveal quorum sensing, and the bobtail squid becomes a model partnership."
+    },
+    {
+      "id": "mirror",
+      "name": "Tunable mirrors, materials and fisheries",
+      "from": 2004,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Reflectin is found and its tuning explained, materials copy it, and India sets rules for its squid fishery."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "ancient",
+      "art": "scroll",
+      "key": true,
+      "title": "Two kinds of squid, and their ink",
+      "who": "Aristotle",
+      "where": "Athens and Lesbos",
+      "country": "Greece",
+      "text": "In his History of Animals, Aristotle described a small squid and a much bigger one, and how their fins differ. He placed the ink sac under the mouth and wrote that squid, octopus and cuttlefish all squirt ink when alarmed, the cuttlefish most of all.",
+      "why": "It is the oldest careful written account of squid and their ink.",
+      "sources": [
+        0,
+        1
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1936,
+      "date": "1936",
+      "era": "nerve",
+      "art": "neuron",
+      "key": true,
+      "title": "The giant nerve fibre is found",
+      "who": "J. Z. Young",
+      "where": "Marine Biological Association, Plymouth",
+      "country": "United Kingdom",
+      "text": "Studying squid nerves, the zoologist John Zachary Young saw that pale cords on the mantle, thick enough to see by eye, were single enormous nerve fibres running from the stellate ganglion.",
+      "why": "A nerve fibre this big could be studied from the inside.",
+      "sources": [
+        2,
+        3
+      ],
+      "box": "anatomy"
+    },
+    {
+      "year": 1938,
+      "date": "1938",
+      "era": "nerve",
+      "art": "neuron",
+      "key": false,
+      "title": "Bigger fibres for longer trips",
+      "who": "R. J. Pumphrey and J. Z. Young",
+      "where": "Plymouth",
+      "country": "United Kingdom",
+      "text": "Measuring squid and cuttlefish nerves, they showed that thicker fibres conduct faster, and that the larger giant fibres are the ones that run the greater distances over the mantle.",
+      "why": "It explained how one signal can squeeze the whole mantle at once.",
+      "sources": [
+        7,
+        3
+      ],
+      "box": "jet"
+    },
+    {
+      "year": 1939,
+      "date": "1939",
+      "era": "nerve",
+      "art": "neuron",
+      "key": true,
+      "title": "A nerve signal recorded from inside",
+      "who": "Alan Hodgkin and Andrew Huxley",
+      "where": "Plymouth",
+      "country": "United Kingdom",
+      "text": "They threaded a fine electrode along the inside of a squid giant axon about half a millimetre wide. During a signal the inside swung from about −45 to about +40 millivolts: it did not just switch off, it flipped.",
+      "why": "It was the first recording of a nerve impulse from inside a nerve fibre.",
+      "sources": [
+        4,
+        2
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1947,
+      "date": "c. 1947–1949",
+      "era": "nerve",
+      "art": "neuron",
+      "key": false,
+      "title": "Holding the voltage still",
+      "who": "Kenneth Cole and George Marmont",
+      "where": "Woods Hole",
+      "country": "United States",
+      "text": "Working on squid giant axons, Cole and Marmont built the voltage clamp, a circuit that holds the voltage across the nerve membrane fixed so the currents flowing through it can be measured.",
+      "why": "Hodgkin and Huxley used the method to measure the sodium and potassium currents.",
+      "sources": [
+        36,
+        32
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1952",
+      "era": "nerve",
+      "art": "neuron",
+      "key": true,
+      "title": "How a nerve fires, worked out",
+      "who": "Alan Hodgkin and Andrew Huxley",
+      "where": "Cambridge and Plymouth",
+      "country": "United Kingdom",
+      "text": "In a series of papers using squid giant axons, they showed how sodium rushing in and potassium flowing out make the nerve spike, and wrote equations that predicted its shape and speed.",
+      "why": "Their model still underlies how we understand every nerve and neuron.",
+      "sources": [
+        5,
+        32
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1956,
+      "date": "1956",
+      "era": "nerve",
+      "art": "inkpot",
+      "key": false,
+      "title": "Ink as a decoy",
+      "who": "D. Hall",
+      "where": "Letter to Nature",
+      "country": "United Kingdom (journal)",
+      "text": "In a letter to Nature, Hall argued that cephalopod ink is not just a black smokescreen: blobs of ink can work as decoys that draw a predator’s attack.",
+      "why": "It started the study of ink pseudomorphs, the squid’s inky doubles.",
+      "sources": [
+        8,
+        33
+      ],
+      "box": "jet"
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "nerve",
+      "art": "trophy",
+      "key": true,
+      "title": "A Nobel Prize for the squid’s nerve",
+      "who": "Alan Hodgkin, Andrew Huxley and John Eccles",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "Hodgkin and Huxley shared the Nobel Prize in Physiology or Medicine with John Eccles for discoveries about how nerve cell membranes carry signals.",
+      "why": "It recognised work built on the squid giant axon.",
+      "sources": [
+        6,
+        5
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "light",
+      "art": "flask",
+      "key": true,
+      "title": "Bacteria that glow only in a crowd",
+      "who": "Kenneth Nealson, Terry Platt and J. Woodland Hastings",
+      "where": "Harvard University",
+      "country": "United States",
+      "text": "They found that the glowing bacterium Vibrio fischeri only turns on its light once a culture is dense, because each cell leaks a signal that builds up. Hastings called it autoinduction; today it is called quorum sensing.",
+      "why": "Quorum sensing is now known in many bacteria, including ones that cause disease.",
+      "sources": [
+        9,
+        10
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1991,
+      "date": "c. 1991",
+      "era": "light",
+      "art": "cell",
+      "key": false,
+      "title": "The bobtail squid becomes a model",
+      "who": "Margaret McFall-Ngai and Edward (Ned) Ruby",
+      "where": "Hawaii",
+      "country": "United States",
+      "text": "McFall-Ngai and Ruby showed that a newly hatched Hawaiian bobtail squid picks up Vibrio fischeri from sea water and that the bacteria reshape its light organ. The pair became a model for how animals and helpful microbes find each other (date as given in reviews, attributed).",
+      "why": "It made the squid a key animal for studying partnerships between hosts and microbes.",
+      "sources": [
+        11
+      ],
+      "box": "light"
+    },
+    {
+      "year": 1996,
+      "date": "1996",
+      "era": "light",
+      "art": "word",
+      "key": false,
+      "title": "Blanch, ink, jet",
+      "who": "Roger Hanlon and John Messenger",
+      "where": "Woods Hole and Sheffield",
+      "country": "United Kingdom",
+      "text": "In their book Cephalopod Behaviour they described the squid’s escape sequence: turn pale, release a decoy blob of ink, then jet away. They called it the blanch–ink–jet manoeuvre.",
+      "why": "It tied colour change, ink and jetting together into one escape.",
+      "sources": [
+        33
+      ],
+      "box": "jet"
+    },
+    {
+      "year": 1998,
+      "date": "1998",
+      "era": "light",
+      "art": "night",
+      "key": false,
+      "title": "A daily clear-out at dawn",
+      "who": "Spencer Nyholm and Margaret McFall-Ngai",
+      "where": "Hawaii",
+      "country": "United States",
+      "text": "They reported that each dawn the bobtail squid vents about 90% of its light-organ bacteria into the sea; later studies give about 95%. The rest regrow during the day.",
+      "why": "It showed the squid controls its glowing partners on a daily rhythm.",
+      "sources": [
+        11
+      ],
+      "box": "light"
+    },
+    {
+      "year": 2004,
+      "date": "2004",
+      "era": "mirror",
+      "art": "night",
+      "key": true,
+      "title": "Glowing to hide a shadow, tested",
+      "who": "Brian Jones and Michele Nishiguchi",
+      "where": "New Mexico State University",
+      "country": "United States",
+      "text": "In the lab they showed that the light coming from the bobtail squid’s light organ rises and falls as the light from above changes. That is counter-illumination: glowing on the belly to erase its shadow.",
+      "why": "It was the first direct lab test that the squid uses its bacteria for camouflage.",
+      "sources": [
+        12,
+        13
+      ],
+      "box": "light"
+    },
+    {
+      "year": 2004,
+      "date": "2004",
+      "era": "mirror",
+      "art": "molecule",
+      "key": true,
+      "title": "Reflectins are named",
+      "who": "W. J. Crookes and colleagues",
+      "where": "United States",
+      "country": "United States",
+      "text": "Studying the reflective tissues of squid, the team described a new family of proteins, unlike any known before, that build the reflecting plates. They called them reflectins.",
+      "why": "Reflectin is the key to the squid’s tunable mirrors.",
+      "sources": [
+        14,
+        15
+      ],
+      "box": "mirrors"
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "mirror",
+      "art": "inkpot",
+      "key": false,
+      "title": "A decoy that works",
+      "who": "James Wood and colleagues",
+      "where": "Caribbean reef squid, in the lab",
+      "country": "Caribbean",
+      "text": "Experiments with Caribbean reef squid showed that an ink pseudomorph delays a predatory fish from catching its food, by blocking what it can see and smell.",
+      "why": "It gave evidence that ink decoys really help squid escape.",
+      "sources": [
+        33
+      ],
+      "box": "jet"
+    },
+    {
+      "year": 2012,
+      "date": "2012",
+      "era": "mirror",
+      "art": "colour",
+      "key": false,
+      "title": "Nerves tune the mirrors",
+      "who": "Trevor Wardill, Paloma Gonzalez-Bellido, Robyn Crook and Roger Hanlon",
+      "where": "Marine Biological Laboratory, Woods Hole",
+      "country": "United States",
+      "text": "Stimulating skin nerves of the longfin squid switched on its iridophores: the colour shifted from red toward blue in about 17 seconds and the brightness rose over about half a minute.",
+      "why": "It was the first proof that nerves control iridescence in an invertebrate.",
+      "sources": [
+        16
+      ],
+      "box": "mirrors"
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "mirror",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Squeezing water out of the plates",
+      "who": "Daniel DeMartini, Daniel Krogstad and Daniel Morse",
+      "where": "University of California, Santa Barbara",
+      "country": "United States",
+      "text": "They showed that acetylcholine makes reflectin condense, and water flows out of the plates through folds in the cell’s membrane. The plates thin and the reflected colour changes; when the signal goes, water flows back.",
+      "why": "It explained how a squid can tune a mirror made of living cells.",
+      "sources": [
+        17,
+        18
+      ],
+      "box": "mirrors"
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "mirror",
+      "art": "wave",
+      "key": false,
+      "title": "Measuring the living mirrors",
+      "who": "Amitabh Ghoshal, Daniel DeMartini, Elizabeth Eck and Daniel Morse",
+      "where": "University of California, Santa Barbara",
+      "country": "United States",
+      "text": "Measuring single stacks in live market squid, they found the plates thin from about 150 to 80 nm and the gaps from about 120 to 50 nm to tune the colour from 675 nm red to 425 nm blue, with eight or nine plate pairs reflecting.",
+      "why": "These are the numbers behind the model in this box.",
+      "sources": [
+        19
+      ],
+      "box": "mirrors"
+    },
+    {
+      "year": 2013,
+      "date": "February 2013",
+      "era": "mirror",
+      "art": "wing",
+      "key": false,
+      "title": "Squid that fly",
+      "who": "Kouta Muramatsu, Jun Yamamoto and colleagues",
+      "where": "North-west Pacific, east of Tokyo",
+      "country": "Japan",
+      "text": "From a training ship, scientists photographed a shoal of small ocean squid jetting out of the water and gliding on their fins and arms, reported as up to about 30 metres at up to about 11 metres a second.",
+      "why": "It confirmed that some squid really fly through the air to escape.",
+      "sources": [
+        20
+      ],
+      "box": "jet"
+    },
+    {
+      "year": 2017,
+      "date": "10 November 2017",
+      "era": "mirror",
+      "art": "boat",
+      "key": true,
+      "title": "India bans LED light fishing at sea",
+      "who": "Department of Animal Husbandry, Dairying and Fisheries",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "An order banned bull and pair trawling and the use of artificial and LED lights by mechanised and motorised fishing craft in India’s Exclusive Economic Zone, from 12 to 200 nautical miles out. Traditional non-motorised craft are exempt.",
+      "why": "Strong lights pull in young fish as well as squid, and small-boat fishers had asked for limits.",
+      "sources": [
+        21,
+        22,
+        23
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2018,
+      "date": "2018",
+      "era": "mirror",
+      "art": "heatwaves",
+      "key": false,
+      "title": "Infrared camouflage from squid ideas",
+      "who": "Chengyi Xu, Alon Gorodetsky and colleagues",
+      "where": "University of California, Irvine",
+      "country": "United States",
+      "text": "Inspired by cephalopod skin, the team made thin, stretchable films that change how much heat they reflect, so a warm object can be hidden from infrared cameras (Science, 2018).",
+      "why": "It showed how squid-like tunable reflectors could become real materials.",
+      "sources": [
+        14,
+        15
+      ],
+      "box": "history"
+    },
+    {
+      "year": 2018,
+      "date": "2018",
+      "era": "mirror",
+      "art": "boat",
+      "key": false,
+      "title": "A big squid stock in the Arabian Sea",
+      "who": "Indian fisheries scientists",
+      "where": "South-eastern Arabian Sea and Lakshadweep",
+      "country": "India",
+      "text": "A survey of the purpleback flying squid estimated an average of about 4.2 tonnes per square kilometre and a sustainable catch of about 0.63 million tonnes a year in the area, enough, the authors said, for a new oceanic squid fishery (estimate from the study’s abstract).",
+      "why": "It points to a large squid resource India hardly uses.",
+      "sources": [
+        34
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2020,
+      "date": "March 2020",
+      "era": "mirror",
+      "art": "night",
+      "key": false,
+      "title": "Backlit signals in the deep",
+      "who": "Benjamin Burford and Bruce Robison",
+      "where": "Monterey Bay Aquarium Research Institute and Stanford",
+      "country": "United States",
+      "text": "Filming 30 Humboldt squid 266 to 848 metres deep, they found the squid show set patterns while hunting and meeting others, and suggested lights in their muscle backlight the patterns so they can be read in the dark.",
+      "why": "It hinted that squid may hold complex conversations in the dark.",
+      "sources": [
+        24,
+        25
+      ],
+      "box": "light"
+    },
+    {
+      "year": 2020,
+      "date": "June 2020",
+      "era": "mirror",
+      "art": "cell",
+      "key": false,
+      "title": "Human cells with squid protein",
+      "who": "Atrouli Chatterjee, Alon Gorodetsky and colleagues",
+      "where": "University of California, Irvine",
+      "country": "United States",
+      "text": "The team made human cells produce reflectin. The cells formed tiny protein particles and changed how much light they scattered when the salt around them changed.",
+      "why": "It showed a squid trick working inside human cells.",
+      "sources": [
+        26,
+        15
+      ],
+      "box": "history"
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "mirror",
+      "art": "brain",
+      "key": false,
+      "title": "Cephalopods recognised as sentient",
+      "who": "UK Parliament",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "After an independent review of the evidence, the Animal Welfare (Sentience) Act 2022 recognised cephalopods, including squid, and decapod crustaceans as sentient animals.",
+      "why": "It means UK policies must consider how they affect squid welfare.",
+      "sources": [
+        30
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "era": "mirror",
+      "art": "scales",
+      "key": false,
+      "title": "India’s cephalopod catch",
+      "who": "Central Marine Fisheries Research Institute",
+      "where": "Kochi",
+      "country": "India",
+      "text": "CMFRI estimated that India landed about 2.13 lakh tonnes of cephalopods in 2023, about 6% of its marine catch and its fourth-largest group. Squid are roughly half; the main species is the Indian squid.",
+      "why": "It shows how important squid are to India’s fishers.",
+      "sources": [
+        27,
+        28
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2024,
+      "date": "2024",
+      "era": "mirror",
+      "art": "boat",
+      "key": false,
+      "title": "Frozen squid among the top exports",
+      "who": "Marine Products Export Development Authority",
+      "where": "Kochi",
+      "country": "India",
+      "text": "For 2023–24, MPEDA reported frozen squid as India’s fourth-largest seafood export item, worth about ₹3,061 crore (US$373 million) and about 5% of exports by quantity.",
+      "why": "Squid earns India hundreds of millions of dollars a year.",
+      "sources": [
+        29
+      ],
+      "box": "people"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First written account of squid ink",
+      "value": "c. 350 BCE",
+      "who": "Aristotle, Greece"
+    },
+    {
+      "label": "Squid giant nerve fibre described",
+      "value": "1936",
+      "who": "J. Z. Young, United Kingdom"
+    },
+    {
+      "label": "Nerve signal recorded from inside a fibre",
+      "value": "1939",
+      "who": "Hodgkin and Huxley, United Kingdom"
+    },
+    {
+      "label": "Quorum sensing found in glowing bacteria",
+      "value": "1970",
+      "who": "Nealson, Platt and Hastings, United States"
+    },
+    {
+      "label": "Reflectin proteins named",
+      "value": "2004",
+      "who": "Crookes and colleagues, United States"
+    },
+    {
+      "label": "LED light fishing banned in India’s EEZ",
+      "value": "2017",
+      "who": "Government of India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher and naturalist",
+      "from": "Greece",
+      "note": "Described two kinds of squid and the ink sac."
+    },
+    {
+      "name": "John Zachary Young",
+      "life": "1907 – 1997",
+      "role": "Zoologist",
+      "from": "United Kingdom",
+      "note": "Identified the squid giant nerve fibres in 1936."
+    },
+    {
+      "name": "Alan Hodgkin",
+      "life": "1914 – 1998",
+      "role": "Physiologist",
+      "from": "United Kingdom",
+      "note": "Recorded and explained the nerve impulse using the squid giant axon."
+    },
+    {
+      "name": "Andrew Huxley",
+      "life": "1917 – 2012",
+      "role": "Physiologist",
+      "from": "United Kingdom",
+      "note": "Co-author of the Hodgkin–Huxley model of the nerve impulse."
+    },
+    {
+      "name": "J. Woodland Hastings",
+      "life": "1927 – 2014",
+      "role": "Biologist",
+      "from": "United States",
+      "note": "Co-discovered autoinduction, now called quorum sensing, in glowing bacteria."
+    },
+    {
+      "name": "Margaret McFall-Ngai",
+      "life": "born 1950s",
+      "role": "Biologist",
+      "from": "United States",
+      "note": "Made the bobtail squid and its glowing bacteria a model partnership."
+    },
+    {
+      "name": "Daniel Morse",
+      "life": "living",
+      "role": "Biochemist",
+      "from": "United States",
+      "note": "His lab worked out how squid tune their reflectin mirrors."
+    }
+  ],
+  "series": [
+    {
+      "id": "landings",
+      "title": "India’s cephalopod catch",
+      "unit": "tonnes",
+      "log": true,
+      "after": "mirror",
+      "caption": "Squid, cuttlefish and octopus landed in India, from CMFRI estimates. Squid are about half.",
+      "points": [
+        {
+          "year": 1973,
+          "value": 1000,
+          "label": "1973: of the order of 1,000 tonnes"
+        },
+        {
+          "year": 1986,
+          "value": 43000,
+          "label": "1986: about 43,000 tonnes"
+        },
+        {
+          "year": 2022,
+          "value": 206000,
+          "label": "2022: 2.06 lakh tonnes"
+        },
+        {
+          "year": 2023,
+          "value": 213000,
+          "label": "2023: 2.13 lakh tonnes"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A squid’s shimmering colours come from stacks of protein plates about a tenth of a micrometre thick, not from pigment.",
+    "A nerve signal can slide a squid iridophore’s colour from red to blue in about 17 seconds.",
+    "Each dawn the Hawaiian bobtail squid squirts about 90 to 95% of its glowing bacteria into the sea.",
+    "The squid giant axon is about half a millimetre thick, big enough to slide a wire inside.",
+    "India landed about 2.13 lakh tonnes of cephalopods in 2023."
+  ],
+  "sources": [
+    {
+      "title": "History of Animals, book IV (D'Arcy Thompson translation)",
+      "publisher": "LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/aristotle/histanimals4.html"
+    },
+    {
+      "title": "History of Animals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Animals"
+    },
+    {
+      "title": "Jet propulsion: how the squid helped scientists uncover the mystery of nerve transmission",
+      "publisher": "The Physiological Society",
+      "url": "https://www.physoc.org/blog/jet-propulsion-how-the-squid-helped-scientists-uncover-the-mystery-of-nerve-transmission/"
+    },
+    {
+      "title": "J. Z. and the discovery of squid giant nerve fibres",
+      "publisher": "Journal of Experimental Biology 208: 179 (2005)",
+      "url": "https://cob.silverchair.com/jeb/article/208/2/179/15796/J-Z-AND-THE-DISCOVERY-OF-SQUID-GIANT-NERVE-FIBRES"
+    },
+    {
+      "title": "Action potentials recorded from inside a nerve fibre (Hodgkin & Huxley 1939)",
+      "publisher": "Nature 144: 710",
+      "url": "https://www.nature.com/articles/144710a0"
+    },
+    {
+      "title": "Hodgkin–Huxley model",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1963",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1963/summary/"
+    },
+    {
+      "title": "Pumphrey & Young 1938: the rates of conduction of nerve fibres of various diameters in cephalopods",
+      "publisher": "Journal of Experimental Biology 15: 453",
+      "url": "https://cob.silverchair.com/jeb/article-pdf/2625825/jexbio_15_4_453.pdf"
+    },
+    {
+      "title": "Hall 1956: Ink ejection by Cephalopoda",
+      "publisher": "Nature 177: 663",
+      "url": "https://www.nature.com/articles/177663b0"
+    },
+    {
+      "title": "Nealson, Platt & Hastings 1970: Cellular control of the synthesis and activity of the bacterial luminescent system",
+      "publisher": "Journal of Bacteriology 104: 313",
+      "url": "https://doi.org/10.1128/jb.104.1.313-322.1970"
+    },
+    {
+      "title": "Quorum sensing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quorum_sensing"
+    },
+    {
+      "title": "Hawaiian bobtail squid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_bobtail_squid"
+    },
+    {
+      "title": "Jones & Nishiguchi 2004: Counterillumination in the Hawaiian bobtail squid, Euprymna scolopes",
+      "publisher": "Marine Biology 144: 1151",
+      "url": "https://link.springer.com/doi/10.1007/s00227-003-1285-3"
+    },
+    {
+      "title": "Counter-illumination",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Counter-illumination"
+    },
+    {
+      "title": "How do squids camouflage?",
+      "publisher": "The Scientist",
+      "url": "https://www.the-scientist.com/how-do-squids-camouflage-73101"
+    },
+    {
+      "title": "A mini-review on reflectins, from biochemical properties to bio-inspired applications",
+      "publisher": "PMC (open access)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9779258/"
+    },
+    {
+      "title": "Wardill et al. 2012: Neural control of tuneable skin iridescence in squid",
+      "publisher": "Proceedings of the Royal Society B 279: 4243 (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3441077"
+    },
+    {
+      "title": "DeMartini, Krogstad & Morse 2013: Membrane invaginations facilitate reversible water flux driving tunable iridescence",
+      "publisher": "PNAS 110: 2552",
+      "url": "https://doi.org/10.1073/pnas.1217260110"
+    },
+    {
+      "title": "A squid (and octopus) of a different color",
+      "publisher": "UC Santa Barbara news, 2013",
+      "url": "https://news.ucsb.edu/2013/013589/squid-and-octopus-different-color"
+    },
+    {
+      "title": "Ghoshal, DeMartini, Eck & Morse 2013: Optical parameters of the tunable Bragg reflectors in squid",
+      "publisher": "Journal of the Royal Society Interface 10: 20130386",
+      "url": "https://icb.ucsb.edu/publications/1699"
+    },
+    {
+      "title": "Squid can fly? Flight behavior of the squid explained for the first time",
+      "publisher": "Hokkaido University",
+      "url": "https://www.global.hokudai.ac.jp/blog/squid-can-fly-flight-behavior-of-the-squid-explained-for-the-first-time/index.htm"
+    },
+    {
+      "title": "Ban on LED lights, bull trawling to help fishermen, says minister",
+      "publisher": "Business Standard (PTI), December 2017",
+      "url": "https://business-standard.com/article/pti-stories/ban-on-led-lights-bull-trawling-to-help-fishermen-says-min-117120900885_1.html"
+    },
+    {
+      "title": "Rajya Sabha unstarred question 2350 (5 August 2022) on fishing bans",
+      "publisher": "Rajya Sabha",
+      "url": "https://rsdebate.nic.in/bitstream/123456789/732146/1/PQ_257_05082022_U2350_p360_p360.pdf"
+    },
+    {
+      "title": "India’s coastal crisis: how light fishing threatens marine life and traditional livelihoods",
+      "publisher": "Down To Earth",
+      "url": "https://www.downtoearth.org.in/governance/indias-coastal-crisis-how-light-fishing-threatens-marine-life-and-traditional-livelihoods"
+    },
+    {
+      "title": "Social squid communicate in the dark",
+      "publisher": "Stanford University news, 2020",
+      "url": "https://news.stanford.edu/2020/03/23/social-squid-communicate-dark/"
+    },
+    {
+      "title": "Burford & Robison 2020: Bioluminescent backlighting illuminates the complex visual signals of a social squid in the deep sea",
+      "publisher": "PNAS 117: 8524",
+      "url": "https://doi.org/10.1073/pnas.1920875117"
+    },
+    {
+      "title": "UCI scientists engineer human cells with squid-like transparency",
+      "publisher": "University of California, Irvine, 2020",
+      "url": "https://news.uci.edu/2020/06/02/uci-scientists-engineer-human-cells-with-squid-like-transparency"
+    },
+    {
+      "title": "Annual national data for 2023: marine fish landings",
+      "publisher": "Central Marine Fisheries Research Institute (CMFRI)",
+      "url": "https://www.cmfri.org.in/2023"
+    },
+    {
+      "title": "Marine Fish Landings in India 2023 (technical report record)",
+      "publisher": "CMFRI eprints",
+      "url": "https://eprints.cmfri.org.in/18344/"
+    },
+    {
+      "title": "Press note: export performance of marine products, 2023–24",
+      "publisher": "Marine Products Export Development Authority (MPEDA)",
+      "url": "https://mpeda.gov.in/wp-content/uploads/2024/06/Press_Note_MPEDA_Export-Performance_2023-24.pdf"
+    },
+    {
+      "title": "Animal Welfare (Sentience) Act 2022",
+      "publisher": "legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/22"
+    },
+    {
+      "title": "Firefly squid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Firefly_squid"
+    },
+    {
+      "title": "Squid giant axon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Squid_giant_axon"
+    },
+    {
+      "title": "Cephalopod ink",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cephalopod_ink"
+    },
+    {
+      "title": "Purpleback flying squid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Purpleback_flying_squid"
+    },
+    {
+      "title": "Cephalopod fisheries of India (review)",
+      "publisher": "CMFRI, via CORE",
+      "url": "https://core.ac.uk/download/33013233.pdf"
+    },
+    {
+      "title": "Voltage clamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Voltage_clamp"
+    },
+    {
+      "title": "Marine Fish Landings in India 2022",
+      "publisher": "CMFRI eprints",
+      "url": "https://eprints.cmfri.org.in/16883/1/Marine%20Fish%20Landings%20in%20India_2022.pdf"
+    }
+  ]
+}

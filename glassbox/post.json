@@ -1,0 +1,126 @@
+{
+  "slug": "squidclear",
+  "box": 212,
+  "question": "How does a squid change color?",
+  "url": "https://glassbox.how/e/squidclear/",
+  "app": "https://glassbox.how/squidclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,350 years from Aristotle’s ink sacs to the nerve that explained every nerve and mirrors built from squid protein.\n\n350 BCE: Two kinds of squid, and their ink\n1936: The giant nerve fibre is found\n1939: A nerve signal recorded from inside\n1952: How a nerve fires, worked out\n1963: A Nobel Prize for the squid’s nerve\n1970: Bacteria that glow only in a crowd\n\nThe full story, with 27 moments, sources and charts: glassbox.how/e/squidclear/history (link in bio)\n\nThen play with how it works: glassbox.how/squidclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #squid #colourchange #iridescence #reflectin #structuralcolour #thinfilminterference #history",
+      "youtube": {
+        "title": "The history of understanding squid in 45 seconds #shorts",
+        "description": "2,350 years from Aristotle’s ink sacs to the nerve that explained every nerve and mirrors built from squid protein.\n\n350 BCE · Two kinds of squid, and their ink (Aristotle)\n1936 · The giant nerve fibre is found (J. Z. Young)\n1939 · A nerve signal recorded from inside (Alan Hodgkin and Andrew Huxley)\n1952 · How a nerve fires, worked out (Alan Hodgkin and Andrew Huxley)\n1963 · A Nobel Prize for the squid’s nerve (Alan Hodgkin, Andrew Huxley and John Eccles)\n1970 · Bacteria that glow only in a crowd (Kenneth Nealson, Terry Platt and J. Woodland Hastings)\n\n▶ Full history: https://glassbox.how/e/squidclear/history/\n▶ Play with it: https://glassbox.how/e/squidclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a squid change color?\n\nA squid’s shimmer is not paint. It is light bouncing off stacks of protein plates thinner than a soap film, and a nerve signal can squeeze water out of them to slide the colour from red to blue. Some squid go further and make their own light.\n\n→ A squid is a muscle tube with fins, ten limbs and a funnel that fires a jet.\n→ Inside run two giant nerves, half a millimetre thick, that fire the escape jet.\n→ Squid skin hides stacks of protein plates thinner than a soap film. They reflect one colour.\n→ A nerve signal squeezes water out: the plates thin and the colour slides from red to blue.\n→ Seen from below, a bobtail squid would cast a shadow. Glowing bacteria on its belly erase it.\n\nPlay with it yourself. It's free and open source: glassbox.how/squidclear (link in bio)\n\nBox No. 212 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #squid #colourchange #iridescence #reflectin #structuralcolour #thinfilminterference #bioluminescence #counterillumination #bobtailsquid",
+    "carousel": "Swipe through: How does a squid change color?\n\nA squid’s shimmer is not paint. It is light bouncing off stacks of protein plates thinner than a soap film, and a nerve signal can squeeze water out of them to slide the colour from red to blue. Some squid go further and make their own light.\n\nSave this for later, then play with the interactive version at glassbox.how/squidclear (link in bio).\n\nBox No. 212 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #squid #colourchange #iridescence #reflectin #structuralcolour #thinfilminterference",
+    "youtube": {
+      "title": "How does a squid change color? #shorts",
+      "description": "A squid’s shimmer is not paint. It is light bouncing off stacks of protein plates thinner than a soap film, and a nerve signal can squeeze water out of them to slide the colour from red to blue. Some squid go further and make their own light.\n\n▶ Play with it: https://glassbox.how/e/squidclear/\n⌘ Source code (MIT): https://github.com/bdeeps/squidclear\n\nBox No. 212 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a squid change color? (interactive explainer)",
+      "description": "A squid’s shimmer is not paint. It is light bouncing off stacks of protein plates thinner than a soap film, and a nerve signal can squeeze water out of them to slide the colour from red to blue. Some squid go further and make their own light.\n\n▶ Play with the interactive version: https://glassbox.how/e/squidclear/\n⌘ Source code (MIT): https://github.com/bdeeps/squidclear\n\nIn this video:\n• A jet-powered tube. A squid is a muscular mantle with fins, eight arms, two tentacles and a funnel that fires a jet.\n• Mirrors it can tune. Iridophores hold stacks of reflectin plates about a tenth of a micrometre thick.\n• Making light. The Hawaiian bobtail squid farms glowing Vibrio fischeri bacteria in a light organ and matches the moonlight to hide its shadow from below.\n• Jet and ink. Squeezing the mantle shoots water from the funnel and the squid goes tail first.\n• Squid and people. India landed about 2.13 lakh tonnes of cephalopods in 2023, roughly half squid, mostly the Indian squid.\n• How we found out. Aristotle described squid ink.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a squid change color?\n\nA squid’s shimmer is not paint.\n\nPlay with it: https://glassbox.how/e/squidclear/",
+    "linkedin": "How does a squid change color?\n\nA squid’s shimmer is not paint. It is light bouncing off stacks of protein plates thinner than a soap film, and a nerve signal can squeeze water out of them to slide the colour from red to blue. Some squid go further and make their own light.\n\n1. A jet-powered tube\n2. Mirrors it can tune\n3. Making light\n4. Jet and ink\n5. Squid and people\n6. How we found out\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 212 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/squidclear/\nCode: https://github.com/bdeeps/squidclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-12T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-12T10:33:51.650Z"
+}
